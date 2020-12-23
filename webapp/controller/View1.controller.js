@@ -6,7 +6,7 @@ sap.ui.define([
 	return Controller.extend("com.v2.PMV2.controller.View1", {
 		onInit: function () {
 			
-			
+			document.title = "Viatris";
 
 		}
 	});
