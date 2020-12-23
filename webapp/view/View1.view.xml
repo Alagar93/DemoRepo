@@ -4,7 +4,8 @@
 			<pages>
 				<Page id="page" title="{i18n>title}">
 					<content>
-							<Button text="PM"/>
+						<Button text="PM"/>
+						<Button class="sapUiSmallMarginBegin" text="PM V2"/>
 					</content>
 				</Page>
 			</pages>
